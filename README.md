@@ -1,4 +1,4 @@
-# Large Vision Language Model
+# Vision Language Model
 
 I'm building Google's PaliGemma: Vision Language Model from scratch.
 
